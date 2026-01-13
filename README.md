@@ -1,4 +1,17 @@
-<h4 align="left">💫 About Me:<br><br>🎓 2nd year CS Undergrad at Heritage Institute of Technology<br><br>🧩 Currently sharpening DSA, multithreading, and Spring Boot<br><br>🔁 Consistency is my strongest weapon — I show up daily<br><br>🎧 Code + music = deep focus mode<br><br>🏋️ Love working out and then working on code (in that order)<br><br>🐛 ⚡ Fun fact: I enjoy fixing bugs I created myself — it’s personal</h4>
+
+## 💫 About Me
+
+- 🎓 2nd year CS Undergrad at Heritage Institute of Technology  
+- 🧩 Currently sharpening **DSA, Multithreading, and Spring Boot**  
+- 🔁 Consistency is my strongest weapon — I show up daily  
+- 🎧 Code + music = deep focus mode  
+- 🏋️ Love working out and then working on code (in that order)  
+- 🐛 ⚡ Fun fact: I enjoy fixing bugs I created myself — it’s personal  
+
+
+
+
+
 
 ###
 
@@ -59,6 +72,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityadebnath009/adityadebnath009/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityadebnath009/adityadebnath009/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
