@@ -58,12 +58,12 @@ graph TD
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadebnath009&show_icons=true&theme=tokyonight&count_private=true" alt="Aditya's GitHub Stats" height="190px" />
+  <!-- General Stats Card (Hiding Issues and Contributed to) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=adityadebnath009&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs" alt="Aditya's GitHub Stats" height="190px" />
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadebnath009&theme=tokyonight" alt="Aditya's Streak Stats" height="190px" />
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadebnath009&layout=compact&theme=tokyonight" alt="Aditya's Top Languages" height="190px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityadebnath009&layout=compact&theme=tokyonight" alt="Aditya's Top Languages" height="190px" />
 </p>
 
 ---
