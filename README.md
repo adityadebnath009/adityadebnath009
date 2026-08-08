@@ -1,95 +1,81 @@
+# Aditya Debnath
 
-## 💫 About Me
+🚀 **AI & Backend Engineer | Distributed Systems & AI Agents**
 
-- 🎓 2nd year CS Undergrad at Heritage Institute of Technology  
-- 🧩 Currently sharpening **DSA, Multithreading, and Spring Boot**  
-- 🔁 Consistency is my strongest weapon — I show up daily  
-- 🎧 Code + music = deep focus mode  
-- 🏋️ Love working out and then working on code (in that order)  
-- 🐛 ⚡ Fun fact: I enjoy fixing bugs I created myself — it’s personal  
+I am a backend-focused software engineer specializing in building secure, high-concurrency distributed systems and AI-powered products. I design and scale applications utilizing LLMs, Retrieval-Augmented Generation (RAG), and multi-agent workflows.
 
+---
 
+### 🛠️ Core Tech Stack
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Backend & Microservices** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **AI, RAG & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-orange?style=for-the-badge) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
+| **Databases & Vector Search** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-red?style=for-the-badge&logo=qdrant) ![Hibernate/JPA](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) |
+| **Infrastructure & Tools** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge) |
 
+---
 
+### ⭐️ Highlighted Project: Nexora
 
-###
+**Nexora** is a proof-of-work developer network that replaces self-reported resume buzzwords with verified, inspectable code citations.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-</div>
+*   **Architecture:** Multi-service system powered by **Spring Boot**, **Spring Cloud (Eureka, API Gateway)**, and **PostgreSQL**.
+*   **Security & Redaction:** Built a local extraction layer that scrubs secrets, JWT tokens, and credentials before transmission.
+*   **AI Integration:** Leveraged **Spring AI** and **Google Gemini** to audit repository commit logs, pull requests, and file trees to build project-first developer profiles.
+*   **System Design:**
+```mermaid
+graph TD
+    Gateway[API Gateway] --> Eureka[Eureka Service Discovery]
+    
+    Gateway --> UserService[User Service]
+    Gateway --> PostService[Post Service]
+    Gateway --> ProfileService[Profile Service]
+    
+    subgraph Profile Service Internal
+        ProfileService --> Encryptor[AES Credentials Encryptor]
+        ProfileService --> Crawler[GitHub Crawler]
+        ProfileService --> Scrubber[Secret Redactor]
+        ProfileService --> SpringAI[Spring AI Client]
+    end
+    
+    SpringAI --> Gemini[Google Gemini AI]
+    ProfileService --> Postgres[(PostgreSQL DB)]
+```
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aditya-debnath-93330b325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="Aditya Debnath (@Aditya21013) / X https://share.google/ApKLXV59oBKiZiwxv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.gg/zcJPf3X9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+### 🧠 Core Expertise & Focus Areas
 
-###
+*   **AI Products & RAG:** Architecting Retrieval-Augmented Generation (RAG) pipelines and multi-agent workflows using **LangChain** and **LangGraph** with vector backends like **pgvector** and **Qdrant**.
+*   **High-Concurrency & Multithreading:** Deep understanding of multithreading concepts, including the Producer-Consumer problem, custom thread pools, and multithreaded sorting implementations.
+*   **Secure API Design:** Extensive implementation of authentication pipelines using **Spring Security**, OAuth2, and JWT.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityadebnath009&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+---
 
-###
+### 📊 GitHub Statistics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityadebnath009/adityadebnath009/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityadebnath009/adityadebnath009/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityadebnath009/adityadebnath009/output/pacman-contribution-graph.svg">
-</picture>
+<p align="left">
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adityadebnath009&show_icons=true&theme=tokyonight&count_private=true" alt="Aditya's GitHub Stats" height="190px" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadebnath009&theme=tokyonight" alt="Aditya's Streak Stats" height="190px" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadebnath009&layout=compact&theme=tokyonight" alt="Aditya's Top Languages" height="190px" />
+</p>
 
+---
 
-###
+### 🏋️‍♂️ Fun Fact
+*   *My best engineering ideas and system architectures are always explored and solved while I'm exercising.*
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkwNWxmcjc1cTc4eGV5bGN6bGY5czF4Z3plbXpiazZpMnhjMHliMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
-</div>
+---
 
-###
+### 📬 Get in Touch
 
-<div align="left">
-</div>
+*   **LinkedIn:** [aditya-debnath-93330b325](https://linkedin.com/in/aditya-debnath-93330b325)
+*   **Email:** [debnathaditya2005@gmail.com](mailto:debnathaditya2005@gmail.com)
 
-###
-
-<br clear="both">
-
-<div align="left">
-</div>
-
-###
+*⚡ "Evidence before assertion."*
